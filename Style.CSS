@@ -21,6 +21,11 @@
     top: 50px;
 }
 
+.mainText {
+    position:relative;
+    top: 85px;
+}
+
 p.disclaimer {
     position: fixed;
     bottom: 0px;
