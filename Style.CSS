@@ -24,6 +24,7 @@ p.disclaimer {
     position: fixed;
     bottom: 0px;
     left: 0px;
+    margin: 0 auto;
     text-align: center;
     background-color: lightgray;
     Width: 100%;
