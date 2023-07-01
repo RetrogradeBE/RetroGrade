@@ -26,6 +26,10 @@ body {
     width: 400px;
 }
 
+.video {
+    top: 150px;
+}
+
 .disclaimer {
     position: fixed;
     bottom: 0px;
