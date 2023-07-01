@@ -1,13 +1,11 @@
 * {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
-    box-sizing: border-box;
 }
 
 #titleHeader {
     color: white;
     background-color: black;
     position: fixed;
-    font-size: 36px;
     top: 0px;
     left: 0px;
     margin: 0px;
@@ -17,17 +15,18 @@
     width: 100%
 }
 
-.WIP {
+body {
+    background-color: whitesmoke;
+    margin-left: 50px;
     position: relative;
     top: 50px;
 }
 
-.mainText {
-    position:relative;
-    top: 85px;
+.WIP h2 {
+    width: 400px;
 }
 
-p.disclaimer {
+.disclaimer {
     position: fixed;
     bottom: 0px;
     left: 0px;
